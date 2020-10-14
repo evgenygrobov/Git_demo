@@ -1,1 +1,1 @@
-# Git_demo
+# Solution for challenges
